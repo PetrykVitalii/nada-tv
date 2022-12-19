@@ -83,4 +83,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-[https://nada-tv.vercel.app/](https://nextjs.org/docs)
+[https://nada-tv.vercel.app/](https://nada-tv.vercel.app/)
