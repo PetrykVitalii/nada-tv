@@ -39,14 +39,14 @@ npx playwright test
 estimates: 
 
 ```
-start project - 3h
-main work: - create and connect api 1h
-           - create pages 6h
-           - adaptive to mobile 3h
-           - add image preloader 1h
-           - create pagination 1h
-install and set test configuration - 1h
-test - 3h
+project start - 3h
+the main work: - api creation and connection 1h
+           - creation of pages 6h
+           - adaptation to the mobile 3h
+           - adding image preloader 1h
+           - creation of pagination 1h
+installation and setting the test configuration - 1h
+testing - 3h
   ```
   
   notes and peculiarities:
@@ -54,10 +54,10 @@ test - 3h
   ```
   According to the task: "The first layout should use the “Schedule” API" 
   (https://www.tvmaze.com/api#schedule) which doesn't provide any 
-  appropriate info to implement pagination as it should be. We are not
+  appropriate info to implement pagination as it should. We are not
   aware of pages for the current endpoint or its total number of items. 
   The scheduled shows date was chosen as a pagination unit to implement
-  the Home page pagination. 
+  the Home page pagination.
   ```
 
 
